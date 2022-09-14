@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/basic-outfit-picker/static/css/main.9e32a715.css",
+    "main.js": "/basic-outfit-picker/static/js/main.189d1742.js",
+    "static/js/787.c615008a.chunk.js": "/basic-outfit-picker/static/js/787.c615008a.chunk.js",
+    "static/media/logo.svg": "/basic-outfit-picker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/basic-outfit-picker/index.html",
+    "main.9e32a715.css.map": "/basic-outfit-picker/static/css/main.9e32a715.css.map",
+    "main.189d1742.js.map": "/basic-outfit-picker/static/js/main.189d1742.js.map",
+    "787.c615008a.chunk.js.map": "/basic-outfit-picker/static/js/787.c615008a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e32a715.css",
+    "static/js/main.189d1742.js"
+  ]
+}
